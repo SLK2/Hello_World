@@ -1,4 +1,4 @@
 # Hello_World
 Kick-Starter.
 
-There is an entry point.
+This is an entry point.
